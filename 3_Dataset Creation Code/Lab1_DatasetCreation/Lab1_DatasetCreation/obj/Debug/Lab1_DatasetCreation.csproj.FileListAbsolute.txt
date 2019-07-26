@@ -1,0 +1,7 @@
+C:\ICSML2019\Lab1_DatasetCreation\Lab1_DatasetCreation\Lab1_DatasetCreation\bin\Debug\Lab1_DatasetCreation.exe.config
+C:\ICSML2019\Lab1_DatasetCreation\Lab1_DatasetCreation\Lab1_DatasetCreation\bin\Debug\Lab1_DatasetCreation.exe
+C:\ICSML2019\Lab1_DatasetCreation\Lab1_DatasetCreation\Lab1_DatasetCreation\bin\Debug\Lab1_DatasetCreation.pdb
+C:\ICSML2019\Lab1_DatasetCreation\Lab1_DatasetCreation\Lab1_DatasetCreation\obj\Debug\Lab1_DatasetCreation.csprojAssemblyReference.cache
+C:\ICSML2019\Lab1_DatasetCreation\Lab1_DatasetCreation\Lab1_DatasetCreation\obj\Debug\Lab1_DatasetCreation.csproj.CoreCompileInputs.cache
+C:\ICSML2019\Lab1_DatasetCreation\Lab1_DatasetCreation\Lab1_DatasetCreation\obj\Debug\Lab1_DatasetCreation.exe
+C:\ICSML2019\Lab1_DatasetCreation\Lab1_DatasetCreation\Lab1_DatasetCreation\obj\Debug\Lab1_DatasetCreation.pdb
